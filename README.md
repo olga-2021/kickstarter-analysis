@@ -16,7 +16,7 @@ In order to perform this analysis, I used pivot table to visualize campaign outc
 ### Analysis of Outcomes Based on Goals
 In this analysis I will examine the percentage of successful, failed, and canceled plays based on the funding goal amount. I have created a timeline chart in order to visualize relationship between the goal-amount and the percentage of successful, failed, or canceled projects. 
 
-https://ibb.co/S7BgF7J
+<img src="https://i.ibb.co/Hpqy5pX/Outcomes-vs-Goals.png" alt="Outcomes-vs-Goals" border="0">
 
 ### Challenges and Difficulties Encountered
 I found that using the regular code for COUNTIFS function for each cell is time consuming, so I found a shortcut. I’ve created 2 additional columns with variables (please check the excel sheet file column A and B), and instead of typing every single time a new condition in the formula, I just selected the previously created cell with the necessary variable. 
