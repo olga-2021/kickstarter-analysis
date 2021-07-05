@@ -11,7 +11,7 @@ The purpose of this analysis is to evaluate how different campaigns fared in rel
 ### Analysis of Outcomes Based on Launch Date
 In order to perform this analysis, I used pivot table to visualize campaign outcomes base on launch date. A timeline chart from the pivot table has been created to visualize the relationship between outcomes and launch date. The timeline chart demonstrates the number of successful, failed, or canceled projects by month.
 
-<img src="https://ibb.co/WKzNDQF">
+<img src="https://i.ibb.co/NYNg1Xp/Outcomes-vs-Goals.png" alt="Outcomes-vs-Goals" border="0">
 
 ### Analysis of Outcomes Based on Goals
 In this analysis I will examine the percentage of successful, failed, and canceled plays based on the funding goal amount. I have created a timeline chart in order to visualize relationship between the goal-amount and the percentage of successful, failed, or canceled projects. 
