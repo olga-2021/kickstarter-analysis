@@ -11,12 +11,12 @@ The purpose of this analysis is to evaluate how different campaigns fared in rel
 ### Analysis of Outcomes Based on Launch Date
 In order to perform this analysis, I used pivot table to visualize campaign outcomes base on launch date. A timeline chart from the pivot table has been created to visualize the relationship between outcomes and launch date. The timeline chart demonstrates the number of successful, failed, or canceled projects by month.
 
-https://ibb.co/WKzNDQF
+(https://ibb.co/WKzNDQF)
 
 ### Analysis of Outcomes Based on Goals
 In this analysis I will examine the percentage of successful, failed, and canceled plays based on the funding goal amount. I have created a timeline chart in order to visualize relationship between the goal-amount and the percentage of successful, failed, or canceled projects. 
 
-https://ibb.co/S7BgF7J
+(https://ibb.co/S7BgF7J)
 
 ### Challenges and Difficulties Encountered
 I found that using the regular code for COUNTIFS function for each cell is time consuming, so I found a shortcut. I’ve created 2 additional columns with variables (please check the excel sheet file column A and B), and instead of typing every single time a new condition in the formula, I just selected the previously created cell with the necessary variable. 
